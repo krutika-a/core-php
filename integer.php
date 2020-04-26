@@ -1,0 +1,10 @@
+<html>
+<head>
+</head>
+<body>
+<?php
+$a=25;
+var_dump($a);
+?>
+</body>
+</html>
